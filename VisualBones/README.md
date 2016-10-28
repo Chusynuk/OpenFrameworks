@@ -4,3 +4,6 @@
 
 ### is an app that I made with openFrameworks C++ library and a Kinect camera for recognizing position and movements.
 
+#### VisualBones is an app with a provided user interface to control the diferent kinds of shapes, colors and position, meanwhile the shapes move according to the music. 
+#### Made it with OpenFrameworks and love.
+#### Feel free to download it and prove it.
